@@ -14,7 +14,7 @@ You have several possibilities to install it
 * Copy the content of the .vim-enforce file into your shell configuration
 * Clone this repository into your home directory and import the specific file into your shell configuration
 
-### Automatic
+### Automatically
 
 For users with bash as default shell
 
